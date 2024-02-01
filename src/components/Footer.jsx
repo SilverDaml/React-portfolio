@@ -42,7 +42,7 @@ export default function Footer(){
                   
             </div>
             <div className="sticky text-center text-sm">
-                <p>Copyright © Francisco Arellano 2021</p>
+                <p>Copyright © Francisco Arellano 2024</p>
             </div>
              
         
